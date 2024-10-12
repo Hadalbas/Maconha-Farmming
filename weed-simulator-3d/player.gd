@@ -20,4 +20,3 @@ func _physics_process(delta: float) -> void:
 	move_and_slide()
 
 func cry():
-	velocity = Vector2(1000, 1000)
